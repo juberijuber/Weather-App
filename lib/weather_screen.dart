@@ -18,7 +18,7 @@ class WeatherScreen extends StatefulWidget {
 class _WeatherScreenState extends State<WeatherScreen> {
   Future<Map<String, dynamic>> getCurrentWeather() async {
     try {
-      String cityName = 'India';
+      String cityName = 'india';
 
       final res = await http.get(
         Uri.parse(
@@ -175,7 +175,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
                       final time =
                           DateTime.parse(hourlyForecast['dt_txt'].toString());
                       return HourlyForecastItems(
-                        temp: hourlyforecasttemp,
+                        temp: '$hourlyforecasttemp K',
                         time: DateFormat.Hm().format(time),
                         icon: hourlyForecast['weather'][0]
                                         ['main'] ==
