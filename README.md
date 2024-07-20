@@ -1,17 +1,14 @@
-# weather_app
+# Weather_App
 
-A new Flutter project.
+#### This Is The Another App Which Is Developed By Using Flutter Framework
 
-## Getting Started
+#### This App Show Us Weather As Kelvin And I Include The Additional Informations Such As Humidity, Wind Speed And Pressure Of The Weather
 
-This project is a starting point for a Flutter application.
+#### And Based On Weather It Tell Us Whether It Is Clouds or Sunny or Rain
 
-A few resources to get you started if this is your first Flutter project:
+#### I Develope This App By Using Weather Api. So By Using This Api We Can See The Updated Weather
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Weather-App" 
+## Preview:
+<img src="https://github.com/juberijuber/Weather-App/blob/main/preview/Weather%20App.png" height="800" width="380">
