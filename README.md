@@ -11,4 +11,4 @@
 ## 
 
 ## Preview:
-<img src="https://github.com/juberijuber/Weather-App/blob/main/preview/Weather%20App.png" height="800" width="380">
+<img src="https://github.com/juberijuber/Weather-App/blob/main/preview/updated.png" height="800" width="380">
